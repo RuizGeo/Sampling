@@ -17,7 +17,7 @@ email=ruiz.ch@gmail.com
 about=Zonal statistics
 
 tracker=https://github.com/RuizGeo/Sampling/issues
-repository=http://repo
+repository=https://github.com/RuizGeo/Sampling
 # End of mandatory metadata
 
 # Recommended items:
@@ -28,7 +28,7 @@ repository=http://repo
 # Tags are comma separated with spaces allowed
 tags=python
 
-homepage=http://homepage
+homepage=https://github.com/RuizGeo/Sampling
 category=Vector
 icon=icon.png
 # experimental flag
