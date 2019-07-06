@@ -9,7 +9,7 @@
 [general]
 name=Sampling
 qgisMinimumVersion=3.0
-description=Zonal statistics from polygon
+description=Sampling calculates rasters statistics and assigns them to shapefiles. The user informs the rasters and shapfiles folder. All files within the folder are used in the process, this automates statistical sampling for multiple files.
 version=0.1
 author=Luis Fernando Chimelo Ruiz
 email=ruiz.ch@gmail.com
