@@ -16,7 +16,7 @@ email=ruiz.ch@gmail.com
 
 about=Zonal statistics
 
-tracker=http://bugs
+tracker=https://github.com/RuizGeo/Sampling/issues
 repository=http://repo
 # End of mandatory metadata
 
